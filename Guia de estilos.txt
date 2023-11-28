@@ -1,0 +1,41 @@
+# Guía de estilo
+
+## Diseño
+
+Los diseños se crearon con los siguientes anchos:
+
+-   Mobile: 375px
+-   Desktop: 1440px
+
+## Colores
+
+### Primario
+
+-   Dark Blue: hsl(233, 26%, 24%)
+-   Lime Green: hsl(136, 65%, 51%)
+-   Bright Cyan: hsl(192, 70%, 51%)
+
+### Neutros
+
+-   Grayish Blue: hsl(233, 8%, 62%)
+-   Light Grayish Blue: hsl(220, 16%, 96%)
+-   Very Light Gray: hsl(0, 0%, 98%)
+-   White: hsl(0, 0%, 100%)
+
+## Typografía
+
+### Body
+
+-   Font size: 18px
+
+### Fuente
+
+-   Family: [Public Sans](https://fonts.google.com/specimen/Public+Sans)
+-   Weights: 300, 400, 700
+
+
+## Icons
+
+Para los íconos sociales, puede usar los íconos provistos o una biblioteca de íconos de fuentes. Ej:
+
+- [Font Awesome](https://fontawesome.com)
